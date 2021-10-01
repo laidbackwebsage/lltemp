@@ -9,6 +9,6 @@
     cd $PROJECT_HOME/lltemp/&& \
     git subtree add --prefix=lltemp-docker --squash \
     --message "Importing Laradock as a subtree." \
-    https://github.com/lltemp/lltemp.git master
+    https://github.com/laradock/laradock.git master
     ```  
 5. 
